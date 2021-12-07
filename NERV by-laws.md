@@ -67,7 +67,7 @@ III.Members may publish proposals and vote on-line on their own computer in any 
 Iv.Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article ?-C )</b><br>
 Discussion forum
 </p>
 
@@ -106,28 +106,105 @@ DAO members may hold no more than one position within the DAO official structure
 
 <p align="center">
 <b>( article ? )</b><br>
-Mission
+Rights and duties of DAO members
 </p>
 
-asasa
+It is the right of members of the DAO to participate in all activities and bodies, to formulate any suggestion or criticism that may be deemed convenient or to publish new proposals or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, NERV welcomes paper-based proposals and referendums.
+
+I.Decisions at all levels are to be made by democratic consensus.
+
+II.Every member of the DAO has the right to elect and be elected to any of the DAO’s organs.
+
+III.The right to be informed in a transparent and clear way about all economical activities of the DAO.
+
+IV.Members are entitled free access to all documents ratified by DAO bodies that result from internal referendums held during the normal functioning of the DAO. The information must be available in digital format found on the on-line platform.
+
+V.It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted by them.
 
 <p align="center">
 <b>( article ? )</b><br>
-Mission
+Work
 </p>
 
-asasa
+DAO members are invited to contribute to the elaboration and supervision of ("all") types of projects. To be eligible, they must inform the DAO of their availability and area of expertise through the on-line platform.
+
+I.By signing up as volunteers and depending on the academic background, members are able to exercise functions in the SEELE, YELLOW, RED.. (...)
+
+II.The adjudication, management and supervision of the works are of the responsibility of the ethical committee (...)
+
+III.Work offered to the DAO can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
 <p align="center">
 <b>( article ? )</b><br>
-Mission
+Withdrawal
 </p>
 
-asasa
+Membership withdrawal can be done at any time without any prejudice and with immediate effect.
 
 <p align="center">
 <b>( article ? )</b><br>
-Treasury
+Penalties
+</p>
+
+By going against these by-laws to which members of the DAO agreed upon joining, the NERV members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAO member is made by democratic consensus on the on-line platform:
+
+I.Not partaking in party's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
+
+II.Not participating on off-line events (...) for a period longer than 2 years. (is this good?)
+
+III. By not respecting the deadlines or tasks that were entrusted by the DAO and accepted by the member, the membership may be revoked temporarily for a period of up to 1 year.
+
+IV.Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
+
+V.It's considered sufficient reason to ban a member from the DAO if unjustified false information is uploaded to the on-line platform.
+
+VI.It’s the responsibility of the (..?.) to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the by-laws, whenever (..?) consider appropriate to do so.
+
+<p align="center">
+<b>( article ? )</b><br>
+Bodies
+</p>
+
+There are 10 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others compose multiple instances. )...)
+
+<p align="center">
+<b>( article ? )</b><br>
+Headquarters
+</p>
+
+sdadsad
+
+I.Headquarters are open to public.
+
+II.The choice of these spaces must be made through democratic consensus on the on-line platform.
+
+<p align="center">
+<b>( article ? )</b><br>
+Contacts
+</p>
+
+Management of the DAO’s official mail and e-mails is made by  (...)
+
+I.The official URL for the website of the PP is URL.
+
+II.The official mail addresses for the PP are the corresponding addresses of the headquarters.
+
+III.Each of the DAO’s bodies other than cores have an official e-mail with the same @URL ending.
+
+<p align="center">
+<b>( article ? )</b><br>
+Website
+</p>
+
+The offici5al website of the NERV DAO serves the triple propose of distributing documentation created during DAO's work, recruiting new members and as a means for communication with external entities.
+
+I.Maintenance and updates to the website are responsibility of DAO's ?? body.
+
+II.The website should at least link to DAO's repositories, contacts and dapp download.
+
+<p align="center">
+<b>( article ? )</b><br>
+????
 </p>
 
 asdasa
