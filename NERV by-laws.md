@@ -2,7 +2,7 @@
 
 <ul>
 <li><b>General provisions</b></li>
-Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
+Fundamental principles to which DAO members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
   
 </ul>
 
@@ -13,7 +13,7 @@ Fundamental principles to which party members adhere as well as general aspects;
 Mission
 </p>
 
-NERV is a decentralized autonomous organization (DAO) committed to building a free, just, supportive, economic and ecologically sustainable society. We hope to achieve this end by developing software tools that promote a more direct democracy by making use of remote e-voting and supporting organizations that want to implement them.
+NERV is a decentralized autonomous organization (DAO) committed to building a free, just, supportive, economic and ecologically sustainable society. We hope to achieve this end by developing software tools that promote a more direct democracy, call it liquid or digital. These tools make use of remote e-voting to achieve on-line consensus.
 
 <p align="center">
 <b>( article ? )</b><br>
