@@ -1,4 +1,4 @@
-# NERV DAO by-laws
+# NERV by-laws
 
 <ul>
 <li><b>General provisions</b></li>
