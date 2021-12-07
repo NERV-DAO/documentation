@@ -8,10 +8,10 @@ Fundamental principles to which DAO members adhere as well as general aspects; n
 Dates for the meetings, mission and composition of the DAO organs; work orders and other details regarding leadership and management.
   
 <li><b>Deliberative criteria</b></li>
-Rules for decision-making and internal communication as well as criteria for establishing and curating proposals. Reporting tools. Off-chain governance.
+Rules for decision-making, criteria for establishing and curating proposals. Reporting tools. Off-chain governance.
   
 <li><b>Smart-contracts</b></li>
-Financing of party activities, transparency; management of the treasury.
+On-chain governance; financing of NERV activities, transparency; management of the treasury.
   
 <li><b>Temporary provisions</b></li>
 Aspects yet to be defined upon the launch of the DAO.
