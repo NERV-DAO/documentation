@@ -28,6 +28,13 @@ NERV is a decentralized autonomous organization (DAO) committed to developing so
 
 <p align="center">
 <b>( article ? )</b><br>
+Name, acronym and symbol
+</p>
+
+This DAO is named Network Emergency Network Vollunteers, or NERV short and has as a symbol (...)
+
+<p align="center">
+<b>( article ? )</b><br>
 On-line discussion platform
 </p>
 
@@ -36,13 +43,6 @@ The on-line discussion platform, or on-line platform short, is computer software
 I.All the information and tools that are considered important to the functioning of the NERV DAO are to be readily available for consultation with real-time data whenever possible on the on-line platform.
 
 II.The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
-
-<p align="center">
-<b>( article ? )</b><br>
-Mission
-</p>
-
-asasa
 
 <p align="center">
 <b>( article ? )</b><br>
