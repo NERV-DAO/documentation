@@ -90,7 +90,7 @@ I.Adherence to or withdrawal from the DAO is made exclusively through the on-lin
 
 <p align="center">
 <b>( article 5-b )</b><br>
-Bond to the country of origine
+Bond to the country of origin
 </p>
 
 DAO’s membership is associated with a nationality (country?) ..
