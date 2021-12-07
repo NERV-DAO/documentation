@@ -1,4 +1,4 @@
-# By-laws that define the internal procedures and how the DAO should interact with the external real world
+# NERV DAO by-laws
 
 ## General provisions
 
