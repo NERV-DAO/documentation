@@ -52,7 +52,7 @@ I.All the information and tools that are considered important to the functioning
 II.The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
 
 <p align="center">
-<b>( article 4-B )</b><br>
+<b>( article 4-b )</b><br>
 Functionalities
 </p>
 
@@ -67,7 +67,7 @@ III.Members may publish proposals and vote on-line on their own computer in any 
 Iv.Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
 <p align="center">
-<b>( article 4-C )</b><br>
+<b>( article 4-c )</b><br>
 Discussion forum
 </p>
 
