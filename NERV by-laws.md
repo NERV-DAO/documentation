@@ -24,7 +24,7 @@ Aspects yet to be defined upon the launch of the DAO.
 Mission
 </p>
 
-NERV is a decentralized autonomous organization (DAO) committed to developing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus.
+NERV is a decentralized autonomous organization (DAO) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus.
 
 <p align="center">
 <b>( article 2 )</b><br>
