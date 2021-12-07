@@ -208,3 +208,5 @@ II.The website should at least link to DAO's repositories, contacts and dapp dow
 asdasa
 
 Members who contratualize with the DAO must sign... https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
+
+WORK IN PROGRESS
