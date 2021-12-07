@@ -1,2 +1,2 @@
 # NERV DAO by-laws
-Set of rules and procedures that define how the organization should operate and interact in the real world
+Set of rules that define how the organization should operate internaly and interact with the external real world.
