@@ -27,21 +27,21 @@ Mission
 NERV is a decentralized autonomous organization (DAO) committed to developing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 2 )</b><br>
 Name, acronym and symbol
 </p>
 
 This DAO is named Network Emergency Network Vollunteers, or NERV short and has as a symbol (...)
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3 )</b><br>
 Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
 Considering that at the moment of publishing this document there is a legal vacuum as regards to how DAOs in general (...) https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 4 )</b><br>
 On-line discussion platform
 </p>
 
@@ -52,7 +52,7 @@ I.All the information and tools that are considered important to the functioning
 II.The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
 
 <p align="center">
-<b>( article ?-B )</b><br>
+<b>( article 4-B )</b><br>
 Functionalities
 </p>
 
@@ -67,7 +67,7 @@ III.Members may publish proposals and vote on-line on their own computer in any 
 Iv.Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
 <p align="center">
-<b>( article ?-C )</b><br>
+<b>( article 4-C )</b><br>
 Discussion forum
 </p>
 
@@ -80,7 +80,7 @@ II.Topics are categorized according to different areas of ???.
 III. Moderation is user-centric meaning no special roles are assigned to any user.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5 )</b><br>
 Registration
 </p>
 
@@ -89,7 +89,7 @@ The enrolment in the DAO is an individual choice and requires the payment of a s
 I.Adherence to or withdrawal from the DAO is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5-b )</b><br>
 Bond to the place of residence
 </p>
 
@@ -98,14 +98,14 @@ I.DAO’s membership is associated with a nationality (country?) ..
 II.It is also the responsibility of the DAO members to keep personal data updated, uploading changes to the residential address through the on-line platform.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 6 )</b><br>
 Incompatibility regime
 </p>
 
 DAO members may hold no more than one position within the DAO official structures unless otherwise stated.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 7 )</b><br>
 Rights and duties of DAO members
 </p>
 
@@ -122,7 +122,7 @@ IV.Members are entitled free access to all documents ratified by DAO bodies that
 V.It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted by them.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 8 )</b><br>
 Work
 </p>
 
@@ -135,14 +135,14 @@ II.The adjudication, management and supervision of the works are of the responsi
 III.Work offered to the DAO can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 9 )</b><br>
 Withdrawal
 </p>
 
 Membership withdrawal can be done at any time without any prejudice and with immediate effect.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 10 )</b><br>
 Penalties
 </p>
 
@@ -161,14 +161,14 @@ V.It's considered sufficient reason to ban a member from the DAO if unjustified 
 VI.It’s the responsibility of the (..?.) to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the by-laws, whenever (..?) consider appropriate to do so.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 11 )</b><br>
 Bodies
 </p>
 
 There are 10 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others compose multiple instances. )...)
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 12 )</b><br>
 Headquarters
 </p>
 
@@ -179,7 +179,7 @@ I.Headquarters are open to public.
 II.The choice of these spaces must be made through democratic consensus on the on-line platform.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 13 )</b><br>
 Contacts
 </p>
 
@@ -192,7 +192,7 @@ II.The official mail addresses for the PP are the corresponding addresses of the
 III.Each of the DAO’s bodies other than cores have an official e-mail with the same @URL ending.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 13-b )</b><br>
 Website
 </p>
 
