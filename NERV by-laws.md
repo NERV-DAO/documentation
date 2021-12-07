@@ -56,7 +56,7 @@ II.The on-line platform must deploy the most advanced technologies for identity 
 Functionalities
 </p>
 
-Through the on-line platform the party members are able to:
+Through the on-line platform the DAO members are able to:
 
 I.Watch live streams of any debates and video-conferences that may take place during the DAO activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with networks such as www.odysee.com (...)
 
@@ -148,7 +148,7 @@ Penalties
 
 By going against these by-laws to which members of the DAO agreed upon joining, the NERV members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAO member is made by democratic consensus on the on-line platform:
 
-I.Not partaking in party's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
+I.Not partaking in DAO's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
 
 II.Not participating on off-line events (...) for a period longer than 2 years. (is this good?)
 
