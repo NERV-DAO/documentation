@@ -8,7 +8,7 @@ Fundamental principles to which DAO members adhere as well as general aspects; n
 Dates for the meetings, mission and composition of the DAO organs; work orders and other details regarding leadership and management.
   
 <li><b>Deliberative criteria</b></li>
-Rules for decision-making and internal communication as well as criteria for establishing and curating proposals.
+Rules for decision-making and internal communication as well as criteria for establishing and curating proposals. Reporting tools. Off-chain governance.
   
 <li><b>Smart-contracts</b></li>
 Financing of party activities, transparency; management of the treasury.
@@ -31,7 +31,7 @@ NERV is a decentralized autonomous organization (DAO) committed to developing so
 On-line discussion platform
 </p>
 
-The on-line discussion platform, or on-line platform short, is computer software and the necessary underlying blockchain infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the DAO. It also provides the visualization of live video streams of video-conferencing and debates and serves as a repository for data necessary to the study of the proposals put forward by DAO members.
+The on-line discussion platform, or on-line platform short, is computer software and the necessary underlying blockchain infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the DAO. It also provides the visualization of live video streams of video-conferences and debates and serves as a repository for data necessary to the study of the proposals put forward by DAO members.
 
 I.All the information and tools that are considered important to the functioning of the NERV DAO are to be readily available for consultation with real-time data whenever possible on the on-line platform.
 
