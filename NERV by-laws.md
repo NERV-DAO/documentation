@@ -90,12 +90,10 @@ I.Adherence to or withdrawal from the DAO is made exclusively through the on-lin
 
 <p align="center">
 <b>( article 5-b )</b><br>
-Bond to the place of residence
+Bond to the country of origine
 </p>
 
-I.DAO’s membership is associated with a nationality (country?) ..
-
-II.It is also the responsibility of the DAO members to keep personal data updated, uploading changes to the residential address through the on-line platform.
+DAO’s membership is associated with a nationality (country?) ..
 
 <p align="center">
 <b>( article 6 )</b><br>
