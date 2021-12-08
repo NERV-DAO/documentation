@@ -210,53 +210,224 @@ Internal organization
 This chapter explains the objective for which each of the DAO’s bodies were thought of as well as their operating rules and how they should interrelate during DAO’s work. The main bodies of the PP are: SEELE, ambassadors, captains, yellow, blue and red teams and the ethical committees.
 
 <p align="center">
+<b>( article 2 )</b><br>
+Moderator
+</p>
+
+The moderator is summoned whenever there is a meeting during DAO’s activities where there are at most 10 people participating and its mission is to mediate the dialogue. The moderator is elected at least a week prior to the meeting by plurinominal consensus between the participants of the meeting through the on-line platform.
+
+I.Introduces the main topics for the debate. The choice of the topics to be discussed is done automatically by an algorithm on the on-line platform and in accordance to the DAO’s by-laws.
+
+II.Manages the intervention time during the meetings guaranteeing equal opportunity of participation to everyone.
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Board
+</p>
+
+The board takes the role of the moderator for debates with more than 10 participants or in situations where the meeting is expected to become too technical or too long. The choice for the board is made through plurinominal consensus between the participants of the meeting on the on-line platform at least 1 week prior to the meeting and is composed of up to 10 members.
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Secretary
+</p>
+
+The secretary is summoned whenever there’s a meeting during NERV’s activities and has the function of registering the event.
+
+I.The choice of the secretary is made by plurinominal consensus at least 1 week prior to the meeting.
+
+Ii.Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
+
+Iii.Responsible for recording the debate in video format and uploading it to the on-line platform.
+
+Iv.The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
+
+<p align="center">
 <b>( article ? )</b><br>
-????
+SEELE
 </p>
 
 asdasa
 
 <p align="center">
-<b>( article ? )</b><br>
-????
+<b>( article ?-b )</b><br>
+Convocation
 </p>
 
 asdasa
 
 <p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
 <b>( article ? )</b><br>
-????
+Ambassadors
 </p>
 
 asdasa
 
 <p align="center">
-<b>( article ? )</b><br>
-????
+<b>( article ?-b )</b><br>
+Convocation
 </p>
 
 asdasa
 
 <p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
 <b>( article ? )</b><br>
-????
+Captains
 </p>
 
 asdasa
 
 <p align="center">
-<b>( article ? )</b><br>
-????
+<b>( article ?-b )</b><br>
+Convocation
 </p>
 
 asdasa
 
 <p align="center">
-<b>( article ? )</b><br>
-????
+<b>( article ?-c )</b><br>
+Composition
 </p>
 
 asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+Yellow team
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+Blue team
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+Red team
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+Ethical committees
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+( article ?-d )
+Work order
+
+dsadada
+
+( article ? )
+Contractors
+
+dsadada
 
 Members who contratualize with the DAO must sign... https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
 
