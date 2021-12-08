@@ -163,7 +163,7 @@ VI.It’s the responsibility of the (..?.) to evaluate situations described abov
 Bodies
 </p>
 
-There are 10 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others compose multiple instances. )...)
+There are 7 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others are composed of multiple instances.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -199,6 +199,57 @@ The official website of the NERV DAO serves the triple propose of distributing d
 I.Maintenance and updates to the website are responsibility of DAO's ?? body.
 
 II.The website should at least link to DAO's repositories, contacts and dapp download.
+
+## Internal organization
+
+<p align="center">
+<b>( article 1 )</b><br>
+Internal organization
+</p>
+
+This chapter explains the objective for which each of the DAO’s bodies were thought of as well as their operating rules and how they should interrelate during DAO’s work. The main bodies of the PP are: SEELE, ambassadors, captains, yellow, blue and red teams and the ethical committees.
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ? )</b><br>
+????
+</p>
+
+asdasa
 
 <p align="center">
 <b>( article ? )</b><br>
