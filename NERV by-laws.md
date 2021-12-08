@@ -445,7 +445,124 @@ Contractors
 
 dsadada
 
+## Deliberative criteria
 
+<p align="center">
+<b>( article ? )</b><br>
+Democraticity
+</p>
+
+All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must "stem" from democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct or indirect voting.
+
+<p align="center">
+<b>( article ? )</b><br>
+Events
+</p>
+
+The announcement of the venue and the sending of invitations for the participation on all the party’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the party’s headquarters official addresses to the party member’s official contacts).
+
+<p align="center">
+<b>( article ? )</b><br>
+Proposals
+</p>
+
+Any DAO member can publish a new proposal or propose changes to an existing proposals by using the forums on the on-line platform. The proposals must consist of title, abstract and body:
+
+I.The title must be a short phrase associated with the proposal with a maximum of 30 words.
+
+Ii.The abstract should also briefly explain the subject to which it refers, and consist of between 100 and 300 words.
+
+Iii.The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
+
+<p align="center">
+<b>( article ? )</b><br>
+Rate of approval
+</p>
+
+Through the on-line platform on the forum view members of the DAO can express and register in an encrypted distributed and signed digital database if they approve or reject a proposal or amendment of an existing policy put forward by other members.
+
+<p align="center">
+<b>( article ? )</b><br>
+Urgency
+</p>
+
+Parallel to the indicator defined above, DAO members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
+
+<p align="center">
+<b>( article ? )</b><br>
+Impact
+</p>
+
+I.Low impact proposals are those whose financing doesn’t exceed 0.0000002% of the NERV's treasury and are prioritized up to of little importance.
+
+iI.Ordinary proposals are those whose financing is lower than 0,00001% of the NERV's treasury or that are considered from useful or impactful.
+
+Iii.Medium-impact proposals are those whose financing costs are greater than 0.00001% of the NERV's treasury and whose priority is considered useful or impactful.
+
+Iv.High-impact proposals are considered to be all whose financing is greater than 0.00001% of the NERV's treasury or whose priority is considered urgent.
+
+<p align="center">
+<b>( article ? )</b><br>
+Evaluation period
+</p>
+
+The proposal evaluation period is an evaluation period of 3 months (unless otherwise ruled by the statutes) in which the proposals are to be discussed amongst the DAO members and the various bodies before being officially inserted and accepted and implemented through the smart-contracts.
+
+I.The SEELE may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
+
+iI.Analogously to the previous point, the evaluation time of a bill can be extended to a maximum of 1 year by the SEELE with simple majority consensus if it is considered necessary a more thorough study of the socio-economic impacts of the policy proposal, bill, or the capacity to execute accordingly is in question.
+
+## Smart-contracts
+
+<p align="center">
+<b>( article ? )</b><br>
+Transparency
+</p>
+
+The NERV DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are to be made public either on the on-line platform.
+
+<p align="center">
+<b>( article ? )</b><br>
+Financing
+</p>
+
+dsadada
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Contributions
+</p>
+
+Membership and participation in the NERV’s bodies is always free of charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the NERV DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Crowdfunding
+</p>
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+Cryptocurrency
+</p>
+
+The cryptocurrency that is to be used by the DAO is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
+
+<p align="center">
+<b>( article ? )</b><br>
+Financial report
+</p>
+
+It is the responsibility of the DAO’s """treasurer""" to prepare an annual report with the capital movements as established in LAW:
+
+I.Provisional trial balance.
+
+Ii.Real trial balance carried out monthly and published on the official website of DAO and through the on-line platform.
+
+## Temporary provisions
+
+TBD
 
 Members who contratualize with the DAO must sign... https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
 
