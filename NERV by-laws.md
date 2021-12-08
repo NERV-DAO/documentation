@@ -62,7 +62,7 @@ I.Watch live streams of any debates and video-conferences that may take place du
 
 II.DAO members can chat on-line, publish content and rate each other's publications. This can be done publicly or on private groups.
 
-III.Members may publish proposals and vote on-line on their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter himself  while guaranteeing privacy. This is accomplished through cryptography.
+III.Members may publish proposals and vote on-line from their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter himself  while guaranteeing privacy. This is accomplished through cryptography.
 
 Iv.Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
