@@ -263,8 +263,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -289,8 +291,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -315,8 +319,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -341,8 +347,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -367,8 +375,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -393,8 +403,10 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
@@ -419,15 +431,21 @@ Composition
 
 asdasa
 
-( article ?-d )
+<p align="center">
+<b>( article ?-d )</b><br>
 Work order
+</p>
 
 dsadada
 
-( article ? )
+<p align="center">
+<b>( article ?-d )</b><br>
 Contractors
+</p>
 
 dsadada
+
+
 
 Members who contratualize with the DAO must sign... https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
 
