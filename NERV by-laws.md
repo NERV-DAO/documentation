@@ -194,7 +194,7 @@ III.Each of the DAO’s bodies other than cores have an official e-mail with the
 Website
 </p>
 
-The offici5al website of the NERV DAO serves the triple propose of distributing documentation created during DAO's work, recruiting new members and as a means for communication with external entities.
+The official website of the NERV DAO serves the triple propose of distributing documentation created during DAO's work, recruiting new members and as a means for communication with external entities.
 
 I.Maintenance and updates to the website are responsibility of DAO's ?? body.
 
