@@ -503,42 +503,42 @@ iI.Analogously to the previous point, the evaluation time of a bill can be exten
 ## Smart-contracts
 
 <p align="center">
-<b>( article 4 )</b><br>
+<b>( article 1 )</b><br>
 Transparency
 </p>
 
 The NERV DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are to be made public either on the on-line platform.
 
 <p align="center">
-<b>( article 5 )</b><br>
+<b>( article 2 )</b><br>
 Financing
 </p>
 
 dsadada
 
 <p align="center">
-<b>( article 5-b )</b><br>
+<b>( article 2-b )</b><br>
 Contributions
 </p>
 
 Membership and participation in the NERV’s bodies is always free of charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the NERV DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
 
 <p align="center">
-<b>( article 5-c )</b><br>
+<b>( article 2-c )</b><br>
 Crowdfunding
 </p>
 
 dsadada
 
 <p align="center">
-<b>( article 6 )</b><br>
+<b>( article 3 )</b><br>
 Cryptocurrency
 </p>
 
 The cryptocurrency that is to be used by the DAO is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
 
 <p align="center">
-<b>( article 7 )</b><br>
+<b>( article 4 )</b><br>
 Financial report
 </p>
 
