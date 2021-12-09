@@ -278,14 +278,14 @@ Are the backbone of the organization in the sense that only the most meritorious
 Convocation
 </p>
 
-asdasa
+Videoconference at least once weekly. This videoconference ought to be made available to the remaining members of the DAO.
 
 <p align="center">
 <b>( article ?-c )</b><br>
 Composition
 </p>
 
-asdasa
+To be eligible to the role of captainship it is required that the competitors rank most high amongst the userbase.
 
 <p align="center">
 <b>( article ?-d )</b><br>
@@ -297,6 +297,8 @@ I. Establish tasks to be executed necessary to the functioning and success of th
 II. Supervise the work of groups of at most 150 members within yellow, blue and red teams.
 
 III. Assign a coordinator for every 10 members and from within the same group defined in the previous point.
+
+IV. Files a report monthly evaluating the progression of the work.
 
 <p align="center">
 <b>( article ? )</b><br>
