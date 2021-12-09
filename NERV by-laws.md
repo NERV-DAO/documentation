@@ -221,14 +221,14 @@ I.Introduces the main topics for the debate. The choice of the topics to be disc
 II.Manages the intervention time during the meetings guaranteeing equal opportunity of participation to everyone.
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 2-b )</b><br>
 Board
 </p>
 
 The board takes the role of the moderator for debates with more than 10 participants or in situations where the meeting is expected to become too technical or too long. The choice for the board is made through plurinominal consensus between the participants of the meeting on the on-line platform at least 1 week prior to the meeting and is composed of up to 10 members.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 2-c )</b><br>
 Secretary
 </p>
 
@@ -236,14 +236,14 @@ The secretary is summoned whenever there’s a meeting during NERV’s activitie
 
 I.The choice of the secretary is made by plurinominal consensus at least 1 week prior to the meeting.
 
-Ii.Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
+II.Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
 
-Iii.Responsible for recording the debate in video format and uploading it to the on-line platform.
+III.Responsible for recording the debate in video format and uploading it to the on-line platform.
 
 Iv.The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3 )</b><br>
 Ambassadors
 </p>
 
@@ -258,7 +258,7 @@ III. Are invited to videoconference with the captains in hopes of exchanging fin
 IV. Ambassadors are further divided by country of origin and regular videoconferencing and meetings between people that share the same geolocation is encouraged.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 3-b )</b><br>
 Composition
 </p>
 
@@ -267,21 +267,21 @@ I. Any member of NERV with at least a positive reputation may act as an ambassad
 II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 4 )</b><br>
 Captains
 </p>
 
 Are the backbone of the organization in the sense that only the most meritorious members are entitled this role which is essentially managerial.
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 4-b )</b><br>
 Convocation
 </p>
 
 Videoconferences at least once weekly with members of team under supervision. This videoconference ought to be made available to the remaining members of the DAO.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 4-c )</b><br>
 Composition
 </p>
 
@@ -292,7 +292,7 @@ II. Captainship is attributed and locked for minium period of one year.
 III. Members of the teams managed by the captain may vote for his/her demission.
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 4-d )</b><br>
 Work order
 </p>
 
@@ -305,49 +305,49 @@ III. Assign a coordinator for every 10 members and from within the same group de
 IV. Files a report monthly evaluating the progression of the work.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5 )</b><br>
 Yellow team
 </p>
 
 Following standard practices in cybersecurity, the yellow team is the organ assigned the mission of developing software solutions that NERV may consider necessary.
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 5-b )</b><br>
 Work order
 </p>
 
 Develop software solutions that are approved by NERV's governance.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5-c )</b><br>
 Blue team
 </p>
 
 As in standard practices in cybersecurity, the blue team is attributed the role of building defense mechanisms necessary to protect the software developed by the yellow team ensuring that it functions as intended and is robust against cyberattacks in all its different forms. Blue teams protect the software and its implementation on the ground.
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 5-d )</b><br>
 Work order
 </p>
 
 Develop defense strategies.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5-e )</b><br>
 Red team
 </p>
 
 In opposition to the practices and solutions put forward by the yellow and blue teams, the red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to attack the software.
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 5-f )</b><br>
 Work order
 </p>
 
 Develop attack strategies.
 
 <p align="center">
-<b>( article ?-? )</b><br>
+<b>( article 5-g )</b><br>
 Composition
 </p>
 
@@ -360,14 +360,14 @@ II. From amongst these members of every team, for every 10 members a coordinator
 III. Captains that manage the teams may temporarily expel a particular member from the team.
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 5-h )</b><br>
 Convocation
 </p>
 
 Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 6 )</b><br>
 Ethical committees
 </p>
 
