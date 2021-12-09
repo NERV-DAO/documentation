@@ -258,25 +258,13 @@ III. Are invited to videoconference with the captains in hopes of exchanging fin
 IV. Ambassadors are further divided by country of origin and regular videoconferencing and meetings between people that share the same geolocation is encouraged.
 
 <p align="center">
-<b>( article ?-b )</b><br>
-Convocation
-</p>
-
-asdasa
-
-<p align="center">
 <b>( article ?-c )</b><br>
 Composition
 </p>
 
-asdasa
+I. Any member of NERV with at least a positive reputation may act as an ambassador in regards to onboard new members to the DAO.
 
-<p align="center">
-<b>( article ?-d )</b><br>
-Work order
-</p>
-
-dsadada
+II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains.
 
 <p align="center">
 <b>( article ? )</b><br>
