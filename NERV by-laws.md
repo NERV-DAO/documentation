@@ -271,7 +271,7 @@ II. To be fully considered an ambassador it is required that at least 5 members 
 Captains
 </p>
 
-asdasa
+Are the backbone of the organization in the sense that only the most meritorious members are entitled this role.
 
 <p align="center">
 <b>( article ?-b )</b><br>
@@ -292,7 +292,11 @@ asdasa
 Work order
 </p>
 
-dsadada
+I. Establish tasks to be executed necessary to the functioning and success of the mission of NERV.
+
+II. Supervise the work of groups of at most 150 members within yellow, blue and red teams.
+
+III. Assign a coordinator for every 10 members and from within the same group defined in the previous point.
 
 <p align="center">
 <b>( article ? )</b><br>
