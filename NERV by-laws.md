@@ -330,7 +330,7 @@ As in standard practices in cybersecurity, the blue team is attributed the role 
 Work order
 </p>
 
-dsadada
+Develop defense strategies.
 
 <p align="center">
 <b>( article ? )</b><br>
@@ -344,7 +344,7 @@ In opposition to the practices and solutions put forward by the yellow and blue 
 Work order
 </p>
 
-dsadada
+Develop attack strategies.
 
 <p align="center">
 <b>( article ?-? )</b><br>
