@@ -278,7 +278,7 @@ Are the backbone of the organization in the sense that only the most meritorious
 Convocation
 </p>
 
-Videoconference at least once weekly. This videoconference ought to be made available to the remaining members of the DAO.
+Videoconferences at least once weekly with members of team under supervision. This videoconference ought to be made available to the remaining members of the DAO.
 
 <p align="center">
 <b>( article ?-c )</b><br>
@@ -309,49 +309,35 @@ IV. Files a report monthly evaluating the progression of the work.
 Yellow team
 </p>
 
-asdasa
+Following standard practices in cybersecurity, the yellow team is the organ assigned the mission of developing software solutions that NERV may consider necessary.
 
 <p align="center">
 <b>( article ?-b )</b><br>
 Convocation
 </p>
 
-asdasa
-
-<p align="center">
-<b>( article ?-c )</b><br>
-Composition
-</p>
-
-asdasa
+Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
 <b>( article ?-d )</b><br>
 Work order
 </p>
 
-dsadada
+Develop software solutions that are approved by NERV's governance.
 
 <p align="center">
 <b>( article ? )</b><br>
 Blue team
 </p>
 
-asdasa
+As in standard practices in cybersecurity, the blue team is attributed the role of building defense mechanisms necessary to protect the software developed by the yellow team ensuring that it functions as intended and is robust against cyberattacks in all its different forms. Blue teams protect the software and its implementation on the ground.
 
 <p align="center">
 <b>( article ?-b )</b><br>
 Convocation
 </p>
 
-asdasa
-
-<p align="center">
-<b>( article ?-c )</b><br>
-Composition
-</p>
-
-asdasa
+Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
 <b>( article ?-d )</b><br>
@@ -365,18 +351,11 @@ dsadada
 Red team
 </p>
 
-asdasa
+In opposition to the practices and solutions put forward by the blue team, the red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to attack the software.
 
 <p align="center">
 <b>( article ?-b )</b><br>
 Convocation
-</p>
-
-asdasa
-
-<p align="center">
-<b>( article ?-c )</b><br>
-Composition
 </p>
 
 asdasa
@@ -387,6 +366,19 @@ Work order
 </p>
 
 dsadada
+
+<p align="center">
+<b>( article ?-? )</b><br>
+Composition
+</p>
+
+Any member of NERV whose reputation is at least positive is eligible. It's assumed that members know how to program.
+
+I. Yellow, blue and red teams are always divided into subgroups of at most 150 members.
+
+II. From amongst these members of every team, for every 10 members a coordinator is assigned by the captain.
+
+III. Captains that manage the teams may temporarily expel a particular member from the team.
 
 <p align="center">
 <b>( article ? )</b><br>
