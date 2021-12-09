@@ -271,7 +271,7 @@ II. To be fully considered an ambassador it is required that at least 5 members 
 Captains
 </p>
 
-Are the backbone of the organization in the sense that only the most meritorious members are entitled this role.
+Are the backbone of the organization in the sense that only the most meritorious members are entitled this role which is essentially managerial.
 
 <p align="center">
 <b>( article ?-b )</b><br>
@@ -285,7 +285,11 @@ Videoconference at least once weekly. This videoconference ought to be made avai
 Composition
 </p>
 
-To be eligible to the role of captainship it is required that the competitors rank most high amongst the userbase.
+I. To be eligible to the role of captainship it is required that the competitors rank most high amongst the userbase.
+
+II. Captainship is attributed and locked for minium period of one year.
+
+III. Members of the teams managed by the captain may vote for his/her demission.
 
 <p align="center">
 <b>( article ?-d )</b><br>
