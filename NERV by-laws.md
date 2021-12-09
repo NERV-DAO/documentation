@@ -436,21 +436,21 @@ dsadada
 ## Deliberative criteria
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 1 )</b><br>
 Democraticity
 </p>
 
 All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must "stem" from democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct or indirect voting.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 2 )</b><br>
 Events
 </p>
 
 The announcement of the venue and the sending of invitations for the participation on all the party’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the party’s headquarters official addresses to the party member’s official contacts).
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3 )</b><br>
 Proposals
 </p>
 
@@ -463,21 +463,21 @@ Ii.The abstract should also briefly explain the subject to which it refers, and 
 Iii.The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3-b )</b><br>
 Rate of approval
 </p>
 
 Through the on-line platform on the forum view members of the DAO can express and register in an encrypted distributed and signed digital database if they approve or reject a proposal or amendment of an existing policy put forward by other members.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3-c )</b><br>
 Urgency
 </p>
 
 Parallel to the indicator defined above, DAO members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3-d )</b><br>
 Impact
 </p>
 
@@ -490,7 +490,7 @@ Iii.Medium-impact proposals are those whose financing costs are greater than 0.0
 Iv.High-impact proposals are considered to be all whose financing is greater than 0.00001% of the NERV's treasury or whose priority is considered urgent.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 3-e )</b><br>
 Evaluation period
 </p>
 
@@ -503,42 +503,42 @@ iI.Analogously to the previous point, the evaluation time of a bill can be exten
 ## Smart-contracts
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 4 )</b><br>
 Transparency
 </p>
 
 The NERV DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are to be made public either on the on-line platform.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 5 )</b><br>
 Financing
 </p>
 
 dsadada
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 5-b )</b><br>
 Contributions
 </p>
 
 Membership and participation in the NERV’s bodies is always free of charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the NERV DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 5-c )</b><br>
 Crowdfunding
 </p>
 
 dsadada
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 6 )</b><br>
 Cryptocurrency
 </p>
 
 The cryptocurrency that is to be used by the DAO is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 7 )</b><br>
 Financial report
 </p>
 
