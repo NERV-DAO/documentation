@@ -312,13 +312,6 @@ Yellow team
 Following standard practices in cybersecurity, the yellow team is the organ assigned the mission of developing software solutions that NERV may consider necessary.
 
 <p align="center">
-<b>( article ?-b )</b><br>
-Convocation
-</p>
-
-Videoconferences once weekly to coordinate the workings.
-
-<p align="center">
 <b>( article ?-d )</b><br>
 Work order
 </p>
@@ -333,13 +326,6 @@ Blue team
 As in standard practices in cybersecurity, the blue team is attributed the role of building defense mechanisms necessary to protect the software developed by the yellow team ensuring that it functions as intended and is robust against cyberattacks in all its different forms. Blue teams protect the software and its implementation on the ground.
 
 <p align="center">
-<b>( article ?-b )</b><br>
-Convocation
-</p>
-
-Videoconferences once weekly to coordinate the workings.
-
-<p align="center">
 <b>( article ?-d )</b><br>
 Work order
 </p>
@@ -351,14 +337,7 @@ dsadada
 Red team
 </p>
 
-In opposition to the practices and solutions put forward by the blue team, the red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to attack the software.
-
-<p align="center">
-<b>( article ?-b )</b><br>
-Convocation
-</p>
-
-asdasa
+In opposition to the practices and solutions put forward by the yellow and blue teams, the red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to attack the software.
 
 <p align="center">
 <b>( article ?-d )</b><br>
@@ -379,6 +358,13 @@ I. Yellow, blue and red teams are always divided into subgroups of at most 150 m
 II. From amongst these members of every team, for every 10 members a coordinator is assigned by the captain.
 
 III. Captains that manage the teams may temporarily expel a particular member from the team.
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
 <b>( article ? )</b><br>
