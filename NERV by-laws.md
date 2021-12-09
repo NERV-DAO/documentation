@@ -348,7 +348,7 @@ Develop attack strategies.
 
 <p align="center">
 <b>( article 5-g )</b><br>
-Composition
+Composition of yellow, blue and red teams
 </p>
 
 Any member of NERV whose reputation is at least positive is eligible. It's assumed that members know how to program.
@@ -361,7 +361,7 @@ III. Captains that manage the teams may temporarily expel a particular member fr
 
 <p align="center">
 <b>( article 5-h )</b><br>
-Convocation
+Convocation of yellow, blue and red teams
 </p>
 
 Videoconferences once weekly to coordinate the workings.
@@ -395,35 +395,39 @@ Work order
 dsadada
 
 <p align="center">
-<b>( article ? )</b><br>
+<b>( article 7 )</b><br>
 SEELE
 </p>
 
-asdasa
+Is the founding group of NERV and a special invite-only responsible for the guidance of the DAO towards its main mission. (...) Curates proposals (...)
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 7-b )</b><br>
 Convocation
 </p>
 
-asdasa
+Videoconferences at least once monthly. These videoconferences are to be made public.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 7-c )</b><br>
 Composition
 </p>
 
-asdasa
+I. Initially SEELE's composed of the founding members of the DAO.
+
+II. SEELE's mandated to one year terms.
+
+III. Elections are held annually for the composition of SEELE.
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 7-d )</b><br>
 Work order
 </p>
 
-dsadada
+Provides guidance to the DAO by regularly discussing important events to NERV and pin-pointing key landmarks. (...)
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 8 )</b><br>
 Contractors
 </p>
 
