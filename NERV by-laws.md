@@ -244,38 +244,18 @@ Iv.The secretary can use the on-line platform to probe the opinions of the party
 
 <p align="center">
 <b>( article ? )</b><br>
-SEELE
-</p>
-
-asdasa
-
-<p align="center">
-<b>( article ?-b )</b><br>
-Convocation
-</p>
-
-asdasa
-
-<p align="center">
-<b>( article ?-c )</b><br>
-Composition
-</p>
-
-asdasa
-
-<p align="center">
-<b>( article ?-d )</b><br>
-Work order
-</p>
-
-dsadada
-
-<p align="center">
-<b>( article ? )</b><br>
 Ambassadors
 </p>
 
-asdasa
+In parallel with the classical role that ambassadors play in representing nation states, ambassadors of NERV are entrusted with the function of representing the DAO in the face of third parties.
+
+I. Are responsable for the onboarding of new members to the DAO. For every successful onboarding a cryptocurrency fee is payed and an increase in the reputation point is given to the ambassador that serviced. This is done with the use of referal passphrases.
+
+II. Are entrusted the mission of being on the ground and to help organize and conduct events that may take place in the name of NERV, such as hackathons, meetings, etc.. This service can be recompensated with an increase in reputation.
+
+III. Are invited to videoconference with the captains in hopes of exchanging fine tuned information regarding NERV's membership base in order to better conduct the works.
+
+IV. Ambassadors are further divided by country of origin and regular videoconferencing and meetings between people that share the same geolocation is encouraged.
 
 <p align="center">
 <b>( article ?-b )</b><br>
@@ -413,6 +393,34 @@ dsadada
 <p align="center">
 <b>( article ? )</b><br>
 Ethical committees
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-b )</b><br>
+Convocation
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-c )</b><br>
+Composition
+</p>
+
+asdasa
+
+<p align="center">
+<b>( article ?-d )</b><br>
+Work order
+</p>
+
+dsadada
+
+<p align="center">
+<b>( article ? )</b><br>
+SEELE
 </p>
 
 asdasa
