@@ -481,13 +481,13 @@ Parallel to the indicator defined above, DAO members are invited to classify a g
 Impact
 </p>
 
-I.Low impact proposals are those whose financing doesn’t exceed 0.0000002% of the NERV's treasury and are prioritized up to of little importance.
+I.Low impact proposals are those whose financing doesn’t exceed 1/1000000?th of the NERV's treasury and are prioritized up to of little importance.
 
-iI.Ordinary proposals are those whose financing is lower than 0,00001% of the NERV's treasury or that are considered from useful or impactful.
+iI.Ordinary proposals are those whose financing is lower than 1/100000?th of the NERV's treasury or that are considered from useful or impactful.
 
-Iii.Medium-impact proposals are those whose financing costs are greater than 0.00001% of the NERV's treasury and whose priority is considered useful or impactful.
+Iii.Medium-impact proposals are those whose financing costs are greater than 1/10000?th of the NERV's treasury and whose priority is considered useful or impactful.
 
-Iv.High-impact proposals are considered to be all whose financing is greater than 0.00001% of the NERV's treasury or whose priority is considered urgent.
+Iv.High-impact proposals are considered to be all whose financing is greater than 1/1000?th of the NERV's treasury or whose priority is considered urgent.
 
 <p align="center">
 <b>( article 3-e )</b><br>
