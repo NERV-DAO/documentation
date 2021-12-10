@@ -281,7 +281,7 @@ Videoconferences at least once weekly with members of team under the supervision
 Composition
 </p>
 
-I. To be eligible to the role of captainship it is required that the applicants rank the most high amongst the userbase.
+I. To be eligible to the role of captainship it is required that the applicants rank the most high in reputation amongst the userbase.
 
 II. Captainship is attributed and locked for minimum period of one year and is only open if it is explicitly required by an approved proposal.
 
@@ -333,7 +333,7 @@ Develop defense strategies.
 Red team
 </p>
 
-In opposition to the practices and solutions put forward by the yellow and blue teams, the red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to attack the software.
+In opposition to the practices and solutions put forward by blue teams. The red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to break the code.
 
 <p align="center">
 <b>( article 5-f )</b><br>
@@ -351,9 +351,9 @@ Any member of NERV whose reputation is at least positive is eligible. It's assum
 
 I. Yellow, blue and red teams are always divided into subgroups of at most 150 members.
 
-II. From amongst these members of every team, for every 10 members a coordinator is assigned by the captain.
+II. From amongst the members of each team, for every 10 members a coordinator is assigned by the captain.
 
-III. Captains that manage the teams may temporarily expel a particular member from the team.
+III. Captains that manage the teams may temporarily expel a particular member from the team. This can be done once at most every month.
 
 <p align="center">
 <b>( article 5-h )</b><br>
