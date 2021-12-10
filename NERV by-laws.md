@@ -553,9 +553,11 @@ Financial report
 
 Because NERV runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from NERV's treasury is properly recorded and accounted for. Thus we require that to be published monthly on the official website of DAO and through the on-line platform.:
 
-I. A monthly provisional trial balance.
+I. A monthly provisional trial balance published at the beggining of each month.
 
-II. A real trial balance.
+II. A real trial balance published at the end of each month.
+
+III. An annual accountant report. (elaborate)
 
 ## Temporary provisions
 
