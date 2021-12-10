@@ -161,18 +161,18 @@ V. It’s the responsibility of the ethical committees to develop mechanisms tha
 Bodies
 </p>
 
-There are 7 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others are composed of multiple instances.
+There are 7 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others are grouped in multiple instances.
 
 <p align="center">
 <b>( article 12 )</b><br>
 Headquarters
 </p>
 
-sdadsad
+HQs are spaces for meetups and where members of the DAO can gather and collaborate together. Although not a necessity we consider them advantagious.
 
-I.Headquarters are open to public.
+I. Headquarters need to be open to public.
 
-II.The choice of these spaces must be made through democratic consensus on the on-line platform.
+II. The choice of these spaces must be made through democratic consensus on the on-line platform.
 
 <p align="center">
 <b>( article 13 )</b><br>
