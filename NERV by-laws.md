@@ -181,7 +181,7 @@ Contacts
 
 Management of the DAO’s official e-mails is done by the SEELE. Management of the mails is done by the entrusted members appointed in point I of the previous article.
 
-I. The official URL for the website of the DAO is URL.
+I. The official URL for the website of the DAO is URL. The IPFS hash entrypoint to the website is HASH.
 
 II. The official mail addresses for the DAO are the corresponding addresses of the headquarters if any.
 
@@ -190,11 +190,11 @@ II. The official mail addresses for the DAO are the corresponding addresses of t
 Website
 </p>
 
-The official website of the NERV DAO serves the triple propose of distributing documentation created during DAO's work, recruiting new members and as a means for communication with external entities.
+The official website of the NERV DAO serves the purpose of presenting NERV's work to the public and of recruiting new members.
 
-I.Maintenance and updates to the website are responsibility of DAO's ?? body.
+I. Maintenance and updates to the website are the responsibility of SEELE.
 
-II.The website should at least link to DAO's repositories, contacts and dapp download.
+II. The website should at least link to DAO's repositories, contacts and dapp download.
 
 ## Internal organization
 
