@@ -38,7 +38,7 @@ This DAO is named Network Emergency Network Vollunteers, or NERV short, inspired
 Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
-Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context worldwide, NERV endorses adoption of the Model Law for DAOs written by the COALA organization.
+Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context, worldwide, NERV endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf)</sup> written by the COALA organization.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -558,5 +558,5 @@ WORK IN PROGRESS
 
 ## References
 
-\[1\] "A framework for comparing the security of voting schemes", Coalition of Automated Legal Applications, https://coala.global/, 2021.
+\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, https://coala.global/, 2021.
 https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
