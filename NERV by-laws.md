@@ -47,9 +47,9 @@ On-line discussion platform
 
 The on-line discussion platform, or on-line platform short, is computer software and the necessary underlying blockchain infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the DAO. It also provides the visualization of live video streams of video-conferences and debates and serves as a repository for data necessary to the study of the proposals put forward by DAO members.
 
-I.All the information and tools that are considered important to the functioning of the NERV DAO are to be readily available for consultation with real-time data whenever possible on the on-line platform.
+I. All the information and tools that are considered important to the functioning of the NERV DAO are to be readily available for consultation with real-time data whenever possible on the on-line platform.
 
-II.The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
+II. The on-line platform must deploy the most advanced technologies for identity management and secured communications. This includes cryptographic algorithms such as PKI, Zero-Knowledge Proofs, Homomorphic Encryption, blockchain, etc., whenever necessary.
 
 <p align="center">
 <b>( article 4-b )</b><br>
@@ -58,13 +58,13 @@ Functionalities
 
 Through the on-line platform the DAO members are able to:
 
-I.Watch live streams of any debates and video-conferences that may take place during the DAO activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with networks such as www.odysee.com (...)
+I. Watch live streams of any debates and video-conferences that may take place during the DAO activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with existing decentralized networks such as IPFS, Odysee or Skynet as examples.
 
-II.DAO members can chat on-line, publish content and rate each other's publications. This can be done publicly or on private groups.
+II. DAO members can chat on-line, publish content and rate each others publications. This can be done publicly or on private groups.
 
-III.Members may publish proposals and vote on-line from their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter himself  while guaranteeing privacy. This is accomplished through cryptography.
+III. Members may publish proposals and vote on-line remotely from their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter while guaranteeing privacy. This is accomplished through cryptography.<sup>[2](https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md)</sup>
 
-Iv.Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
+IV. Members are able to delegate to other members the ability to vote on a specific proposal or on a category of proposals and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
 <p align="center">
 <b>( article 4-c )</b><br>
@@ -558,7 +558,8 @@ WORK IN PROGRESS
 
 ## References
 
-\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, https://coala.global/, 2021.
-https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
+\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, 2021, https://coala.global/, https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
+
+\[2\] "Remote e-voting overview", 14th International Conference on Theory and Practice of Electronic Governance, 2021, https://www.icegov.org/, https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md
 
 \[?\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
