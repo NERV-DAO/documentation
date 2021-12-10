@@ -128,9 +128,9 @@ DAO members are invited to contribute to the elaboration, execution and supervis
 
 I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of NERV which can be recompensated monetarily.
 
-II. The adjudication, management and supervision of the works are of the responsibility of the various ethical committees defined by their own articles in this by-laws.
+II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees as defined in their specific articles present in these by-laws.
 
-III. Conditions for eligibility for the execution of recompensated tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
+III. Conditions for eligibility for the execution tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
 <p align="center">
 <b>( article 9 )</b><br>
@@ -161,7 +161,7 @@ V. It’s the responsibility of the ethical committees to develop mechanisms tha
 Bodies
 </p>
 
-There are 7 different bodies that contribute to the normal functioning of the NERV DAO. Some of these bodies are singular while others are grouped in multiple instances.
+There are 7 different bodies that contribute to the normal functioning of the NERV DAO: ambassadors, captains, yellow, blue and red teams, the ethical committees and SEELE.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -203,7 +203,7 @@ II. The website should at least link to DAO's repositories, contacts and dapp do
 Internal organization
 </p>
 
-This chapter explains the objective for which each of the DAO’s bodies were thought of as well as their operating rules and how they should interrelate during DAO’s work. The main bodies of the PP are: SEELE, ambassadors, captains, yellow, blue and red teams and the ethical committees.
+This chapter explains the objective for which each of the DAO’s bodies were thought of as well as their operating rules and how they should interrelate during DAO’s activity.
 
 <p align="center">
 <b>( article 2 )</b><br>
@@ -212,9 +212,9 @@ Moderator
 
 The moderator is summoned whenever there is a meeting during DAO’s activities where there are at most 10 people participating and its mission is to mediate the dialogue. The moderator is elected at least a week prior to the meeting by plurinominal consensus between the participants of the meeting through the on-line platform.
 
-I.Introduces the main topics for the debate. The choice of the topics to be discussed is done automatically by an algorithm on the on-line platform and in accordance to the DAO’s by-laws.
+I. Introduces the main topics for discussion. The choice of the topics to be discussed is done automatically by an algorithm on the on-line platform and in accordance to the DAO’s by-laws. (elaborate)
 
-II.Manages the intervention time during the meetings guaranteeing equal opportunity of participation to everyone.
+II. Manages the intervention time during the meetings guaranteeing equal opportunity of participation.
 
 <p align="center">
 <b>( article 2-b )</b><br>
@@ -228,15 +228,15 @@ The board takes the role of the moderator for debates with more than 10 particip
 Secretary
 </p>
 
-The secretary is summoned whenever there’s a meeting during NERV’s activities and has the function of registering the event.
+The secretary is summoned whenever there’s a meeting during any of NERV’s activities and has the function of registering the event.
 
-I.The choice of the secretary is made by plurinominal consensus at least 1 week prior to the meeting.
+I. The choice of the secretary is made by plurinominal consensus at least 1 week prior to the meeting (videoconferencing or in-presence).
 
-II.Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
+II. Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
 
-III.Responsible for recording the debate in video format and uploading it to the on-line platform.
+III. Responsible for recording the debate in video format and uploading it to the on-line platform.
 
-Iv.The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
+IV. The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
 
 <p align="center">
 <b>( article 3 )</b><br>
