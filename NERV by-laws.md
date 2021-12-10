@@ -367,35 +367,39 @@ Videoconferences once weekly to coordinate the workings.
 Ethical committees
 </p>
 
-asdasa
+Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes specially those related to the allocation of resources from NERV's treasury.
 
 <p align="center">
-<b>( article ?-b )</b><br>
+<b>( article 6-b )</b><br>
 Convocation
 </p>
 
-asdasa
+For every medium or highly impactful approved proposal an ethical committee is to be established.
 
 <p align="center">
-<b>( article ?-c )</b><br>
+<b>( article 6-c )</b><br>
 Composition
 </p>
 
-asdasa
+Each ethical committee is composed of at most 10 members. Applicants are ranked according to their reputation and plurinomial consensus by an algorithm that takes advantage of these two factors. (elaborate)
 
 <p align="center">
-<b>( article ?-d )</b><br>
+<b>( article 6-d )</b><br>
 Work order
 </p>
 
-dsadada
+I. Members of ethical committes are allowed to participate in meetings of the related yellow, blue and red teams.
+
+II. Are encontraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
 <p align="center">
 <b>( article 7 )</b><br>
 SEELE
 </p>
 
-Is the founding group of NERV and a special invite-only responsible for the guidance of the DAO towards its main mission. (...) Curates proposals (...)
+Is the founding group of NERV and a special organ responsible for the guidance of the DAO towards success of its  main mission. SEELE also curates proposals:
+
+I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptative quorom biasing with negative turnout bias.
 
 <p align="center">
 <b>( article 7-b )</b><br>
@@ -409,18 +413,18 @@ Videoconferences at least once monthly. These videoconferences are to be made pu
 Composition
 </p>
 
-I. Initially SEELE's composed of the founding members of the DAO.
+I. Initially, SEELE's composed of the founding members of the DAO.
 
-II. SEELE's mandated to one year terms.
+II. SEELE members are mandated to one year terms.
 
-III. Elections are held annually for the composition of SEELE.
+III. Plurinomial elections are held annually for the composition of SEELE.
 
 <p align="center">
 <b>( article 7-d )</b><br>
 Work order
 </p>
 
-Provides guidance to the DAO by regularly discussing important events to NERV and pin-pointing key landmarks. (...)
+Provides guidance to the DAO by regularly discussing important events to NERV. (elaborate)
 
 <p align="center">
 <b>( article 8 )</b><br>
@@ -452,11 +456,13 @@ Proposals
 
 Any DAO member can publish a new proposal or propose changes to an existing proposals by using the forums on the on-line platform. The proposals must consist of title, abstract and body:
 
-I.The title must be a short phrase associated with the proposal with a maximum of 30 words.
+I. The title must be a short phrase associated with the proposal with a maximum of 30 words.
 
-Ii.The abstract should also briefly explain the subject to which it refers, and consist of between 100 and 300 words.
+II. The abstract should also briefly explain the subject to which it refers, and consist of between 100 and 300 words.
 
-Iii.The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
+III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
+
+IV. If vote turnout is consistently low, proposals by members of NERV with exception to SEELE should be approved by adaptive quorom biasing with positive turnout bias. Otherwise by simple majority always.
 
 <p align="center">
 <b>( article 3-b )</b><br>
