@@ -446,7 +446,7 @@ II. For each contractor an ethical committee is established.
 Democraticity
 </p>
 
-All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must "stem" from democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct voting and ranked with a reputation metric. These algorithms are transparent in the sense that they run on smart-contracts on the blockchain.
+All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must be based on democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct voting and ranked with a reputation metric. These algorithms are transparent in the sense that they run on smart-contracts on the blockchain.
 
 <p align="center">
 <b>( article 2 )</b><br>
@@ -519,14 +519,18 @@ II. Analogously to the previous point, the evaluation period of a proposal can b
 Transparency
 </p>
 
-The NERV DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are to be made public either on the on-line platform.
+The NERV DAO has in its genesis the principle of transparency, that is, all decision-making, meetings, debates and internal procedures are always public.
 
 <p align="center">
 <b>( article 2 )</b><br>
 Financing
 </p>
 
-dsadada
+Financing of the activities of the NERV is made by:
+
+I. Voluntary contributions made in cryptocurrency by anyone to a wallet address.
+
+II. Every member of the DAO must contribute with an annual membership due payed in cryptocurrency.
 
 <p align="center">
 <b>( article 2-b )</b><br>
