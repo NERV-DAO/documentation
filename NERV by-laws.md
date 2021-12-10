@@ -537,14 +537,7 @@ II. Every member of the DAO must contribute with an annual membership due payed 
 Contributions
 </p>
 
-Membership and participation in the NERV’s bodies is always free of charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the NERV DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
-
-<p align="center">
-<b>( article 2-c )</b><br>
-Crowdfunding
-</p>
-
-dsadada
+Membership and participation in the NERV’s bodies is always free of additional charges only requiring the payment of the membership fee. However, DAO members are welcomed to give contributions by sending cryptocurrency to the NERV DAO’s wallet address. These contributions are to be publicly announced on the DAO’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -558,18 +551,15 @@ The cryptocurrency that is to be used by the DAO is eth, the native cryptocurren
 Financial report
 </p>
 
-It is the responsibility of the DAO’s """treasurer""" to prepare an annual report with the capital movements as established in LAW:
+Because NERV runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from NERV's treasury is properly recorded and accounted for. Thus we require that to be published monthly on the official website of DAO and through the on-line platform.:
 
-I.Provisional trial balance.
+I. A monthly provisional trial balance.
 
-Ii.Real trial balance carried out monthly and published on the official website of DAO and through the on-line platform.
+II. A real trial balance.
 
 ## Temporary provisions
 
 TBD
-
-Members who contratualize with the DAO must sign... https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
-
 WORK IN PROGRESS
 
 ## References
