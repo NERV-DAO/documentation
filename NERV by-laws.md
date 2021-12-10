@@ -281,11 +281,11 @@ Videoconferences at least once weekly with members of team under the supervision
 Composition
 </p>
 
-I. To be eligible to the role of captainship it is required that the competitors rank most high amongst the userbase.
+I. To be eligible to the role of captainship it is required that the applicants rank the most high amongst the userbase.
 
-II. Captainship is attributed and locked for minium period of one year.
+II. Captainship is attributed and locked for minimum period of one year and is only open if it is explicitly required by an approved proposal.
 
-III. Members of the teams managed by the captain may vote for his/her demission.
+III. Members of the teams managed by the captain may vote for the demission of the captain.
 
 <p align="center">
 <b>( article 4-d )</b><br>
