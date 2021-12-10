@@ -60,7 +60,7 @@ Through the on-line platform the DAO members are able to:
 
 I. Watch live streams of any debates and video-conferences that may take place during the DAO activities as well as provide access to previous debates at any time and at all levels of the organisation. This functionality can be paired with existing decentralized networks such as IPFS, Odysee or Skynet as examples.
 
-II. DAO members can chat on-line, publish content and rate each others publications. This can be done publicly or on private groups.
+II. DAO members can chat on-line, publish content and rate each others publications. This can be done publicly or in private groups.
 
 III. Members may publish proposals and vote on-line remotely from their own computer in any location. The voting procedure as well as the final tally must be verifiable by the voter while guaranteeing privacy. This is accomplished through cryptography.<sup>[2](https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md)</sup>
 
@@ -73,9 +73,9 @@ Discussion forum
 
 The on-line platform has a specific view; an on-line bulletin board, also known as a forum, to be used for written discourse where:
 
-I.Functionalities mentioned in the previous article ?-b I to III can be linked to and accessed. Each proposal is automatically assigned a topic.
+I. Functionalities mentioned in the previous article 4-b I to IV can be linked to and accessed. Each proposal is automatically assigned a topic.
 
-II.Topics are categorized according to different areas of ???.
+II. Topics are categorized according to different areas of interest.
 
 III. Moderation is user-centric meaning no special roles are assigned to any user.
 
@@ -84,16 +84,16 @@ III. Moderation is user-centric meaning no special roles are assigned to any use
 Registration
 </p>
 
-The enrolment in the DAO is an individual choice and requires the payment of a small fee in cryptocurrency while also providing a passphrase and other necessary documentation following the registration procedure on the on-line platform. Raw biometric data is never to be kept in any database.
+The enrolment in the DAO is an individual choice and requires the payment of an annual symbolic fee in cryptocurrency, a passphrase given by one of NERV's ambassadors and other necessary documentation following the registration procedure on the on-line platform which may vary by jurisdiction. Raw biometric data is never to be kept in any database.
 
-I.Adherence to or withdrawal from the DAO is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
+I. Adherence to or withdrawal from the DAO is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
 
 <p align="center">
 <b>( article 5-b )</b><br>
 Bond to the country of origin
 </p>
 
-DAO’s membership is associated with a nationality (country?) ..
+Membership is associated with nationality.
 
 <p align="center">
 <b>( article 6 )</b><br>
@@ -109,28 +109,28 @@ Rights and duties of DAO members
 
 It is the right of members of the DAO to participate in all activities and bodies, to formulate any suggestion or criticism that may be deemed convenient or to publish new proposals or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, NERV welcomes paper-based proposals and referendums.
 
-I.Decisions at all levels are to be made by democratic consensus.
+I. Decisions at all levels are to be made by democratic consensus.
 
-II.Every member of the DAO has the right to elect and be elected to any of the DAO’s organs.
+II. Every member of the DAO has the right to elect and be elected to any of the DAO’s organs.
 
-III.The right to be informed in a transparent and clear way about all economical activities of the DAO.
+III. The right to be informed in a transparent and clear way about all economical activities of the DAO.
 
-IV.Members are entitled free access to all documents ratified by DAO bodies that result from internal referendums held during the normal functioning of the DAO. The information must be available in digital format found on the on-line platform.
+IV. Members are entitled free access to all documents ratified by DAO bodies that result from meetings, workings and  internal referendums held during the normal functioning of the DAO. The information must be available in digital format in the on-line platform.
 
-V.It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted by them.
+V. It is duty to perform with zeal, assiduity and loyalty to the other members the positions, functions and workings entrusted by them.
 
 <p align="center">
 <b>( article 8 )</b><br>
-Work
+Works
 </p>
 
-DAO members are invited to contribute to the elaboration and supervision of ("all") types of projects. To be eligible, they must inform the DAO of their availability and area of expertise through the on-line platform.
+DAO members are invited to contribute to the elaboration, execution and supervision of a myriad of projects related to the mission of NERV. To be eligible, members must inform the DAO of the availability and area of expertise through the on-line platform. Most of the work is carried by the Ambassadors, the Captains and the Yellow, Blue and Red teams.
 
-I.By signing up as volunteers and depending on the academic background, members are able to exercise functions in the SEELE, YELLOW, RED.. (...)
+I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of NERV which can be recompensated monetarily.
 
-II.The adjudication, management and supervision of the works are of the responsibility of the ethical committee (...)
+II. The adjudication, management and supervision of the works are of the responsibility of the various ethical committees defined by their own articles in this by-laws.
 
-III.Work offered to the DAO can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
+III. Conditions for eligibility for the execution of recompensated tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
 <p align="center">
 <b>( article 9 )</b><br>
@@ -144,19 +144,17 @@ Membership withdrawal can be done at any time without any prejudice and with imm
 Penalties
 </p>
 
-By going against these by-laws to which members of the DAO agreed upon joining, the NERV members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAO member is made by democratic consensus on the on-line platform:
+By going against these by-laws to which members of the DAO agreed upon joining, NERV members may be alerted or have their membership retracted for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a DAO member is made by democratic consensus on the on-line platform where every member is granted equal vote:
 
-I.Not partaking in DAO's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
+I. Not partaking in DAO's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
 
-II.Not participating on off-line events (...) for a period longer than 2 years. (is this good?)
+II. By not respecting the deadlines and tasks that were entrusted by the DAO and accepted by the member, the membership may be revoked temporarily for a period of up to 1 year.
 
-III. By not respecting the deadlines or tasks that were entrusted by the DAO and accepted by the member, the membership may be revoked temporarily for a period of up to 1 year.
+III. Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
 
-IV.Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
+IV. It's considered sufficient reason to ban a member from the DAO if unjustified false information is uploaded to the on-line platform.
 
-V.It's considered sufficient reason to ban a member from the DAO if unjustified false information is uploaded to the on-line platform.
-
-VI.It’s the responsibility of the (..?.) to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the by-laws, whenever (..?) consider appropriate to do so.
+V. It’s the responsibility of the ethical committees to develop mechanisms that contribute to the evaluation of the situations described above and to publish alerts on the on-line platform whenever it may be considered appropriate to do so.
 
 <p align="center">
 <b>( article 11 )</b><br>
