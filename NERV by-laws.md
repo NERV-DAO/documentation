@@ -557,7 +557,7 @@ I. A monthly provisional trial balance published at the beggining of each month.
 
 II. A real trial balance published at the end of each month.
 
-III. An annual accountant report. (elaborate)
+III. An annual financial report. (elaborate)
 
 ## Temporary provisions
 
