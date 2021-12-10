@@ -444,21 +444,21 @@ II. For each contractor an ethical committee is established.
 Democraticity
 </p>
 
-All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must "stem" from democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct or indirect voting.
+All internal decision-making from the choice of members that participate in the NERV organs to the choice of proposals that are to be implemented must "stem" from democratic criteria, namely, being elected or approved by simple consensus or positional majority through direct voting and ranked with a reputation metric. These algorithms are transparent in the sense that they run on smart-contracts on the blockchain.
 
 <p align="center">
 <b>( article 2 )</b><br>
 Events
 </p>
 
-The announcement of the venue and the sending of invitations for the participation on all the party’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the party’s headquarters official addresses to the party member’s official contacts).
+The announcement of the venue and the sending of invitations for the participation on all NERV’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the NERV’s headquarters official addresses to the member’s official contacts whenever possible).
 
 <p align="center">
 <b>( article 3 )</b><br>
 Proposals
 </p>
 
-Any DAO member can publish a new proposal or propose changes to an existing proposals by using the forums on the on-line platform. The proposals must consist of title, abstract and body:
+Any DAO member can publish a new proposal or propose changes to existing proposals by using the forums on the on-line platform. The proposals must consist of a title, an abstract and a body:
 
 I. The title must be a short phrase associated with the proposal with a maximum of 30 words.
 
@@ -466,7 +466,7 @@ II. The abstract should also briefly explain the subject to which it refers, and
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
 
-IV. If vote turnout is consistently low, proposals by members of NERV with exception to SEELE should be approved by adaptive quorom biasing with positive turnout bias. Otherwise by simple majority always.
+IV. If vote turnout is consistently low, proposals by members of NERV with exception to SEELE should be approved by adaptive quorom biasing with positive turnout bias. Otherwise always by simple majority.
 
 <p align="center">
 <b>( article 3-b )</b><br>
@@ -474,6 +474,10 @@ Rate of approval
 </p>
 
 Through the on-line platform on the forum view members of the DAO can express and register in an encrypted distributed and signed digital database if they approve or reject a proposal or amendment of an existing policy put forward by other members.
+
+I. We define local rate of approval as the reason between the  approvals for a given policy and the total number of users that share the same nationality.
+
+II. The global rate of approval is a numerical variable calculated by the reason between the number of approvals and the total number of members of the DAO.
 
 <p align="center">
 <b>( article 3-c )</b><br>
@@ -487,24 +491,24 @@ Parallel to the indicator defined above, DAO members are invited to classify a g
 Impact
 </p>
 
-I.Low impact proposals are those whose financing doesn’t exceed 1/1000000?th of the NERV's treasury and are prioritized up to of little importance.
+I. Low impact proposals are those whose financing doesn’t exceed 1/1000000?th of the NERV's treasury and are prioritized up to of little importance.
 
-iI.Ordinary proposals are those whose financing is lower than 1/100000?th of the NERV's treasury or that are considered from useful or impactful.
+II. Ordinary proposals are those whose financing is lower than 1/100000?th of the NERV's treasury or that are considered from useful or impactful.
 
-Iii.Medium-impact proposals are those whose financing costs are greater than 1/10000?th of the NERV's treasury and whose priority is considered useful or impactful.
+III. Medium-impact proposals are those whose financing costs are greater than 1/10000?th of the NERV's treasury and whose priority is considered useful or impactful.
 
-Iv.High-impact proposals are considered to be all whose financing is greater than 1/1000?th of the NERV's treasury or whose priority is considered urgent.
+IV. High-impact proposals are considered to be all whose financing is greater than 1/1000?th of the NERV's treasury or whose priority is considered urgent.
 
 <p align="center">
 <b>( article 3-e )</b><br>
 Evaluation period
 </p>
 
-The proposal evaluation period is an evaluation period of 3 months (unless otherwise ruled by the statutes) in which the proposals are to be discussed amongst the DAO members and the various bodies before being officially inserted and accepted and implemented through the smart-contracts.
+The proposal evaluation period is an evaluation period of 3 months during which the proposals are to be discussed amongst the DAO members and the various bodies before being officially accepted and implemented through smart-contracts.
 
-I.The SEELE may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
+I. The SEELE may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
 
-iI.Analogously to the previous point, the evaluation time of a bill can be extended to a maximum of 1 year by the SEELE with simple majority consensus if it is considered necessary a more thorough study of the socio-economic impacts of the policy proposal, bill, or the capacity to execute accordingly is in question.
+II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the SEELE with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
 
 ## Smart-contracts
 
