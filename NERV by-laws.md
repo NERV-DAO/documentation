@@ -168,24 +168,22 @@ There are 7 different bodies that contribute to the normal functioning of the NE
 Headquarters
 </p>
 
-HQs are spaces for meetups and where members of the DAO can gather and collaborate together. Although not a necessity we consider them advantagious.
+HQs are spaces for meetups and where members of the DAO can gather and collaborate together. Although not a necessity we consider their existence advantagious.
 
-I. Headquarters need to be open to public.
+I. Headquarters need to be accessible to DAO members and have appropriate maintenance. At least one member must be appointed to this end through democratic consenus.
 
-II. The choice of these spaces must be made through democratic consensus on the on-line platform.
+II. The choice for the location of these spaces must be made through democratic consensus on the on-line platform.
 
 <p align="center">
 <b>( article 13 )</b><br>
 Contacts
 </p>
 
-Management of the DAO’s official mail and e-mails is made by  (...)
+Management of the DAO’s official e-mails is done by the SEELE. Management of the mails is done by the entrusted members appointed in point I of the previous article.
 
-I.The official URL for the website of the PP is URL.
+I. The official URL for the website of the DAO is URL.
 
-II.The official mail addresses for the PP are the corresponding addresses of the headquarters.
-
-III.Each of the DAO’s bodies other than cores have an official e-mail with the same @URL ending.
+II. The official mail addresses for the DAO are the corresponding addresses of the headquarters if any.
 
 <p align="center">
 <b>( article 13-b )</b><br>
