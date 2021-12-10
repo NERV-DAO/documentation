@@ -24,21 +24,21 @@ Aspects yet to be defined upon the launch of the DAO.
 Mission
 </p>
 
-NERV is a decentralized autonomous organization (DAO) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its consequential abuse.
+NERV is a decentralized autonomous organization (DAO) committed to developing and implementing software tools that promote democracy, call it liquid or digital. These tools make use of remote e-voting and strong identity management in order to be able to achieve on-line consensus. Our action takes place all over the world from developed countries to installed dictatorships; we are here to help humanity achieve its full potential by combating concentration of power and its abuse.
 
 <p align="center">
 <b>( article 2 )</b><br>
 Name, acronym and symbol
 </p>
 
-This DAO is named Network Emergency Network Vollunteers, or NERV short, inspired by a popular anime series. Colors are black and red and has as a symbol a lock and a key in representation of our strong values regarding cybersecurity.
+This DAO is named Network Emergency Network Vollunteers, or NERV short, inspired by a popular anime series. Colors are black and red and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
 
 <p align="center">
 <b>( article 3 )</b><br>
 Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
-Considering that at the moment of publishing this document there is a legal vacuum as regards to how DAOs in general, NERV endorses adoption of the Model Law for DAOs written by the COALA organization.
+Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs should be framed in the legal context worldwide, NERV endorses adoption of the Model Law for DAOs written by the COALA organization.
 
 <p align="center">
 <b>( article 4 )</b><br>
