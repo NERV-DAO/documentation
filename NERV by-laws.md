@@ -381,7 +381,7 @@ For every medium or highly impactful approved proposal an ethical committee is t
 Composition
 </p>
 
-Each ethical committee is composed of at most 10 members. Applicants are ranked according to their reputation and plurinomial consensus by an algorithm that takes advantage of these two factors. (elaborate)
+Each ethical committee is composed of at most 10 members. Applicants are ranked according to their reputation and by plurinomial consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
 
 <p align="center">
 <b>( article 6-d )</b><br>
@@ -399,7 +399,7 @@ SEELE
 
 Is the founding group of NERV and a special organ responsible for the guidance of the DAO towards success of its  main mission. SEELE also curates proposals:
 
-I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptative quorom biasing with negative turnout bias.
+I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
 
 <p align="center">
 <b>( article 7-b )</b><br>
@@ -431,7 +431,11 @@ Provides guidance to the DAO by regularly discussing important events to NERV. (
 Contractors
 </p>
 
-dsadada
+Are all those entities external to NERV to whom treasury resources are allocated in exchange for a service relevant to the DAO.
+
+I. Contractors are chosen by consensual decision through the on-line platform (submission of a proposal).
+
+II. For each contractor an ethical committee is established.
 
 ## Deliberative criteria
 
