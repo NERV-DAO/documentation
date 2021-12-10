@@ -260,7 +260,7 @@ Composition
 
 I. Any member of NERV with at least a positive reputation may act as an ambassador in regards to onboard new members to the DAO.
 
-II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains.
+II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains and to represent NERV on official events.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -274,7 +274,7 @@ Are the backbone of the organization in the sense that only the most meritorious
 Convocation
 </p>
 
-Videoconferences at least once weekly with members of team under supervision. This videoconference ought to be made available to the remaining members of the DAO.
+Videoconferences at least once weekly with members of team under the supervision of the captain. This videoconference ought to be made available to the remaining members of the DAO.
 
 <p align="center">
 <b>( article 4-c )</b><br>
