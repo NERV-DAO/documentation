@@ -128,9 +128,11 @@ DAO members are invited to contribute to the elaboration, execution and supervis
 
 I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of NERV which can be recompensated monetarily.
 
-II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees as defined in their specific articles present in these by-laws.
+II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees.
 
-III. Conditions for eligibility for the execution tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
+III. The acceptance of a job position within the DAO requires the signing of a contract, either digitaly or in paper, between NERV and the contributor. Because there is no legal standards around this practice, we recommend the adoption of an equivalent of the DAO Contributor Agreement<sup>[3](https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md)</sup> published by Larry Florio that may seem appropriate.
+
+IV. Conditions for eligibility for the execution tasks and jobs, sources of financing and the procedures for the payments are established in Chapter IV – Smart-contracts.
 
 <p align="center">
 <b>( article 9 )</b><br>
@@ -568,8 +570,8 @@ WORK IN PROGRESS
 
 ## References
 
-\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, 2021, https://coala.global/, https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
+\[1\] "Model Law for Decentralized Autonomous Organizations (DAOs)", Coalition of Automated Legal Applications, 2021. https://coala.global/, https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf
 
-\[2\] "Remote e-voting overview", 14th International Conference on Theory and Practice of Electronic Governance, 2021, https://www.icegov.org/, https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md
+\[2\] "Remote e-voting overview", 14th International Conference on Theory and Practice of Electronic Governance, 2021. https://www.icegov.org/, https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md
 
-\[?\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
+\[3\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
