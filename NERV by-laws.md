@@ -551,7 +551,7 @@ The cryptocurrency that is to be used by the DAO is eth, the native cryptocurren
 Financial report
 </p>
 
-Because NERV runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from NERV's treasury is properly recorded and accounted for. Thus we require that to be published monthly on the official website of DAO and through the on-line platform.:
+Because NERV runs on a dApp supported by blockchain financial reporting and accounting can be done automatically by a computer algorithm. In fact every proposal and transfer of money from NERV's treasury is properly recorded and accounted for. Thus we require a monthly publication on the official website of DAO and through the on-line platform:
 
 I. A monthly provisional trial balance published at the beggining of each month.
 
