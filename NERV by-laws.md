@@ -128,7 +128,7 @@ DAO members are invited to contribute to the elaboration, execution and supervis
 
 I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of NERV which can be recompensated monetarily.
 
-II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees.
+II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees (angels).
 
 III. The acceptance of a job position within the DAO requires the signing of a contract, either digitaly or in paper, between NERV and the contributor. Because there is no legal standards around this practice, we recommend the adoption of an equivalent of the DAO Contributor Agreement<sup>[3](https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md)</sup> published by Larry Florio that may seem appropriate.
 
@@ -163,7 +163,7 @@ V. It’s the responsibility of the ethical committees to develop mechanisms tha
 Bodies
 </p>
 
-There are 7 different bodies that contribute to the normal functioning of the NERV DAO: ambassadors, captains, yellow, blue and red teams, the ethical committees and SEELE.
+There are 7 different bodies that contribute to the normal functioning of the NERV DAO: ambassadors, captains, yellow, blue and red teams, the angels and SEELE.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -366,33 +366,33 @@ Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
 <b>( article 6 )</b><br>
-Ethical committees
+Angels (ethical committees)
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes specially those related to the allocation of resources from NERV's treasury.
+Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from NERV's treasury.
 
 <p align="center">
 <b>( article 6-b )</b><br>
 Convocation
 </p>
 
-For every medium or highly impactful approved proposal an ethical committee is to be established.
+For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
 
 <p align="center">
 <b>( article 6-c )</b><br>
 Composition
 </p>
 
-Each ethical committee is composed of at most 10 members. Applicants are ranked according to their reputation and by plurinomial consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
+Each ethical committee is composed of at most 10 members (angels). Applicants are ranked according to their reputation and by plurinominal consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
 
 <p align="center">
 <b>( article 6-d )</b><br>
 Work order
 </p>
 
-I. Members of ethical committes are allowed to participate in meetings of the related yellow, blue and red teams.
+I. Angels are allowed to participate in meetings of the related yellow, blue and red teams.
 
-II. Are encontraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
+II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
 <p align="center">
 <b>( article 7 )</b><br>
