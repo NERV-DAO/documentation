@@ -401,7 +401,7 @@ SEELE
 
 Is the founding group of NERV and a special organ responsible for the guidance of the DAO towards success of its  main mission. SEELE also curates proposals:
 
-I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
+I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptive quorom biasing with negative turnout bias. Otherwise by simple majority.
 
 <p align="center">
 <b>( article 7-b )</b><br>
