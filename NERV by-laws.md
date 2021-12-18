@@ -512,6 +512,14 @@ I. The SEELE may, by simple consensus, shorten the evaluation time for a given b
 
 II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the SEELE with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
 
+<p align="center">
+<b>( article 3-f )</b><br>
+Adaptive quorum biasing</p>
+
+1. Positive adaptive quorum biasing (description and when its used)
+
+2. Negative adaptive quorum biasing (description and when its used)
+
 ## Smart-contracts
 
 <p align="center">
