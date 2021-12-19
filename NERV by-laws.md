@@ -520,12 +520,6 @@ Adaptive quorum biasing</p>
 
 2. Negative adaptive quorum biasing (description and when its used)
 
-<p align="center">
-<b>( article 3-g )</b><br>
-Quadratic funding</p>
-
-Proposals are grouped in quadratic funding rounds according to their impact.
-
 ## Smart-contracts
 
 <p align="center">
